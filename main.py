@@ -1,3 +1,4 @@
+# This game was my assignment in First semester 
 import random
 print("="*184)
 print("%100s"%"ROCK PAPER SCISSORS!!!")
